@@ -13,13 +13,13 @@
 ## PCB
 
 ### Layer 1
-<img src="assets/pcb layer 1.png" alt="Layer 1" width="600"/>
+<img src="assets/pcb layer 1.png" alt="Layer 1" height="600"/>
 
 ### Layer 2
-<img src="assets/pcb layer 2.png" alt="Layer 2" width="600"/>
+<img src="assets/pcb layer 2.png" alt="Layer 2" height="600"/>
 
 ### Schematic
 <img src="assets/schematic.png" alt="Schematic" width="600"/>
 
 ## JLCPCB cart
-<img src="assets/jlcpcb.png" alt="JLCPCB cartr" width="600"/>
+<img src="assets/jlcpcb.png" alt="JLCPCB cart" width="600"/>
