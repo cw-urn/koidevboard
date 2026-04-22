@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP WM8960CGEFL_RV
+D IC CODEC CLASS D SPKR DVR 32QFN
+K
+F https://media.digikey.com/pdf/Data%20Sheets/Cirrus%20Logic%20PDFs/WM8960.pdf
+$ENDCMP
+#
+#End Doc Library
